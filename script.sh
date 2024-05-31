@@ -1,1 +1,1 @@
-echo "Ваш ID на stepik.org: <akhzhva>"
+echo "Ваш ID на stepik.org: <ваш_id>"
