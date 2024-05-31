@@ -1,1 +1,1 @@
-Данный репозиторий содержит скрипт для вывода моего ID на stepik.org.
+«Success is the child of audacity.» (Benjamin Disraeli).
